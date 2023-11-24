@@ -10,18 +10,18 @@ This guide is not meant to be a tutorial (although will _contain_ tutorials), bu
 
 Contributions to this guide are more then welcome.
 
-## Table of Contents
+## Index
 
-- [Overview](#overview)
-- [Required Tools](#required-tools-software)
-- [Mod Structure _(WIP)_](/structure/README.md)
+- [Introduction](#introduction)
+- [Required Tools](#required-tools)
+- [Mod Structure](/structure/README.md)
 - [Scripting _(WIP)_](/scripts/README.md)
 - [API _(WIP)_](/api/README.md)
 - [Translations _(WIP)_](/translations/README.md)
 - [Mapping _(WIP)_](/mapping/README.md)
 - [Modelling _(WIP)_](/modelling/README.md)
 
-## Overview
+## Introduction
 
 "Modding" is a vague term covering multiple areas. Many of these areas sometimes overlap but should be considered separate as they require different skill sets and knowledge.
 
@@ -45,49 +45,30 @@ Build 41 uses the [.X](https://en.wikipedia.org/wiki/.x) and [.fbx](https://en.w
 
 ### Textures
 
-> **_TBA_**
+> **_TODO: TBA_**
 
 ### Map Making
 
-> **_TBA_**
+> **_TODO: TBA_**
 
-## Required Tools (software)
+## Required Tools
 
 > **This section should describe the various software tools required for various areas, and provide url links for the more common software used**
 
 For the most part, you are free to use what ever tools you want. The exception is custom map creation, where you are currently limited to the tools released by TIS.
 
----
+### Text Editors
 
-#### Text Editors
+Used in all areas of modding. A modern one like [VS Code](https://code.visualstudio.com/) is recommended.
 
-Used in all areas of modding. [Notepad++](https://notepad-plus-plus.org) is often the preferred editor for windows OS's (it also runs amazingly well on linux with wine)
-
----
-
-#### 3D Modelling
+### 3D Modelling
 
 Used for the creation of custom items, vehicles and weapons. [Blender](https://blender.org) is the common choice as its free and import/export scripts for PZ's older (build 40) model format exist.
 
----
+### Image Editor
 
-#### Image Editor
+If your doing custom icons, textures, maps or 3d models you'll need one of these. Paint.NET, Photoshop and [GIMP](https://gimp.org) are the most used (or even an online one like [Photopea](https://www.photopea.com/)), but whatever supports the .png format will work.
 
-If your doing custom icons, textures, maps or 3d models you'll need one of these. Paint.NET, Photoshop and [GIMP](https://gimp.org) are the most used, but whatever supports the .png format will work.
+### Custom Mapping
 
----
-
-#### Custom Mapping
-
-**_TODO: List tools used in mapping._**
-
----
-
-## Topics
-
-- [Mod Structure](./structure/README.md)
-- [The Scripts](./scripts/README.md)
-- [The Code](./api/README.md)
-- [Translations](./translations/README.md)
-- [The Maps](./mapping/README.md)
-- [The Models](./modelling/README.md)
+> **_TODO: List tools used in mapping._**
